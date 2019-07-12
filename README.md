@@ -1,9 +1,9 @@
 # yt-comment-scraper
-Scrapes all the comments from all videos present in a YouTube channel 
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com) 
 [![NPM Version][npm-image]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+>Scrapes all the comments from all videos present in a YouTube channel 
 
 ![](header.png)
 
