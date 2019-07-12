@@ -1,5 +1,5 @@
 # yt-comment-scraper
-> Scrapes all the comments from all videos present in a YouTube channel 
+Scrapes all the comments from all videos present in a YouTube channel 
 
 [![NPM Version][npm-image]][npm-url]
 
