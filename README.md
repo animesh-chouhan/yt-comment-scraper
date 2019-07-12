@@ -1,6 +1,9 @@
 # yt-comment-scraper
 
-[![NPM Version][npm-image]][npm-url]
+![license][license]
+![](https://img.shields.io/badge/node-v8.10.0-orange.svg)
+![](https://img.shields.io/pypi/pyversions/Django.svg)
+![](https://img.shields.io/badge/platforms-linux--64-lightgrey.svg)
 
 >Scrapes all the comments from all videos present in a YouTube channel 
 
@@ -45,9 +48,9 @@ npm test
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[license]: https://img.shields.io/github/license/animesh-chouhan/yt-comment-scraper.svg?style=plastic
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg
 [npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [wiki]: https://github.com/animesh-chouhan/yt-comment-scraper//wiki
 
 ## License
