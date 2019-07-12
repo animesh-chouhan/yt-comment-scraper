@@ -49,3 +49,8 @@ npm test
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [wiki]: https://github.com/animesh-chouhan/yt-comment-scraper//wiki
+
+## License
+MIT License
+copyright (c) 2019 [Animesh Singh Chouhan](https://github.com/animesh-chouhan). Please have a look at the [license](LICENSE) for more details.
+
