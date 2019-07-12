@@ -7,8 +7,6 @@
 
 >Scrapes all the comments from all videos present in a YouTube channel 
 
-![](header.png)
-
 ## Setup
 
 Linux:
@@ -44,6 +42,8 @@ python3 scraper.py ./your_text_file.txt
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 ![](images/sample-response-alt.png)
+
+![](images/sample-csv.png)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
