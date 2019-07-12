@@ -43,7 +43,7 @@ python3 scraper.py ./your_text_file.txt
 ## Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-![](images/sample-response.png)
+![](images/sample-response-alt.png)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
