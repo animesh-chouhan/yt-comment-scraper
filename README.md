@@ -1,6 +1,5 @@
 # yt-comment-scraper
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com) 
 [![NPM Version][npm-image]][npm-url]
 
 >Scrapes all the comments from all videos present in a YouTube channel 
@@ -30,6 +29,12 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+## Built With
+
+* [Puppeteer](https://developers.google.com/web/tools/puppeteer/) - Headless browser to overcome pagination
+* [ytcomments](https://github.com/philbot9/youtube-comment-scraper) - Comment API
+
+
 
 ## Contributing
 
