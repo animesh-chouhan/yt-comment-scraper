@@ -43,13 +43,13 @@ python3 scraper.py ./your_text_file.txt
 Sample resonse of api hosted on localhost:
 
 <p align="center">
-  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-response-alt.png" width="800" align="center"/>
+  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-response-alt.png" width="700" align="center"/>
 </p>
 
 Sample comments scraped:
 
 <p align="center">
-  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-csv.png"  width="800" align="center"/>
+  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-csv.png"  width="700" align="center"/>
 </p>
 
 
