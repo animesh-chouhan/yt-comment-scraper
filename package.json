@@ -1,0 +1,23 @@
+{
+  "name": "yt-comment-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes all the comments from all videos present in a YouTube channel",
+  "main": "scraper_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animesh-chouhan/yt-comment-scraper.git"
+  },
+  "author": "Animesh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animesh-chouhan/yt-comment-scraper/issues"
+  },
+  "homepage": "https://github.com/animesh-chouhan/yt-comment-scraper#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^1.18.1"
+  }
+}
