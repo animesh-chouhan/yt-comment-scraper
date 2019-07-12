@@ -14,13 +14,36 @@
 Linux:
 
 ```sh
-npm install my-crazy-module --save
+#clone the repo
+git clone https://github.com/animesh-chouhan/yt-comment-scraper.git
+cd /yt-comment-scraper.git
+
+#install python3
+sudo apt-get install python3
+
+#install node and npm
+sudo apt-get install nodejs
+sudo apt-get install npm
+
+#install dependencies
+npm install express --save
+npm install puppeteer --save
+
+#run the api on localhost
+node scraper_api.js 
+
+#testing the python scraper
+python3 scraper.py ./to_scrape_sample.txt
+
+#create a new text file with links to be scraped separated by newlines
+python3 scraper.py ./your_text_file.txt
 ```
 
 
 ## Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+![](images/sample-response.png)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
