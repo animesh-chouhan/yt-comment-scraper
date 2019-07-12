@@ -40,21 +40,22 @@ python3 scraper.py ./your_text_file.txt
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-![](images/sample-response-alt.png)
+Sample resonse of api hosted on localhost:
 
-![](images/sample-csv.png)
+<p align="center">
+  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-response-alt.png" width="800" align="center"/>
+</p>
+
+Sample comments scraped:
+
+<p align="center">
+  <img src="https://github.com/animesh-chouhan/yt-comment-scraper/blob/master/images/sample-csv.png"  width="800" align="center"/>
+</p>
+
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
-## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
 ## Built With
 
 * [Puppeteer](https://developers.google.com/web/tools/puppeteer/) - Headless browser to overcome pagination
