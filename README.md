@@ -7,6 +7,8 @@
 
 >Scrapes all the comments from all videos present in a YouTube channel 
 
+>Can also be used to get the video list from a given YouTube channel
+
 ## Setup
 
 Linux:
