@@ -16,7 +16,7 @@ Linux:
 ```sh
 #clone the repo
 git clone https://github.com/animesh-chouhan/yt-comment-scraper.git
-cd /yt-comment-scraper.git
+cd yt-comment-scraper
 
 #install python3
 sudo apt-get install python3
